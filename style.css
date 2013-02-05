@@ -1,13 +1,13 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #FFB44D;
 }
 
 #header
 {
-	background: #ccc;
-	padding: 20px;
+	background: #6B9500;
+	padding: 0px;
 }
 
 #header h1 { margin: 0; }
@@ -51,7 +51,7 @@
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #8E9971;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
@@ -76,7 +76,7 @@
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #8E9971;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
@@ -88,8 +88,8 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
-	text-align: right;
+	background: #6B9500;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
 }
